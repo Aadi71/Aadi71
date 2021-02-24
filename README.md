@@ -5,10 +5,10 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### About 📌
 
-### ✔  **Domain :** Full-Stack Web Development 💻 | Machine Learning 🤖
-### ✔  **Skills :** Javascript, Python, PHP, Mysql, C++, Java
-### ✔  **Learning :** MongoDB, Express, React and Node.js
-### ✔  **Hobbies :** Swimming 🏊‍♂️, 8 Ball Pool 🎱, Badminton 🏸, Music 🎧
+### ✔  **Domain :** Web Development 💻 | Machine Learning 🤖
+### ✔  **Skills :** Python, C++, Java, Mysql, Javascript, Django, Leadership
+### ✔  **Learning :** MongoDB, PHP, React, Kotlin and Node.js
+### ✔  **Hobbies :** Swimming 🏊‍, Badminton 🏸, Fun and Chill🥳  
 
 
 ## Contributing to Open-Source 🔥
