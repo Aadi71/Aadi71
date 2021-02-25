@@ -6,10 +6,10 @@
 ### About 📌
 
 ### ✔  **Domain :** Web Development 💻 | Machine Learning 🤖
-### ✔  **Skills :** Python, C++, Java, Mysql, Javascript, Django, Leadership
+### ✔  **Skills :** Python, C++, Java, Mysql, Javascript, Django
 ### ✔  **Learning :** MongoDB, PHP, React, Kotlin and Node.js
-### ✔  **Hobbies :** Swimming 🏊‍, Badminton 🏸, Fun and Chill🥳  
-
+### ✔  **Hobbies :** Swimming 🏊‍, Badminton 🏸 
+### ✔  **Life Skills :**Leadership, Punctuality, MakeShift Guy, Optimistic 
 
 ## Contributing to Open-Source 🔥
 <p align="center">
