@@ -3,6 +3,8 @@
 
 [![Twitter Badge](https://img.shields.io/badge/-Aadi_Jain-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/Aadi_Jain_7)](https://twitter.com/Aadi_Jain_7)  [![Linkedin Badge](https://img.shields.io/badge/-Aadi_Jain-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aadijain7102//)](https://www.linkedin.com/in/aadijain7102/) [![Gmail Badge](https://img.shields.io/badge/-jainaadi@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jainaadi@gmail.com)](mailto:jainaadi@gmail.com)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+  <img align="right" alt="GIF" src="https://github.com/Aadi71/Aadi71/blob/master/code.gif?raw=true" width="500" height="320" />
 ### About 📌
 
 ### ✔  **Domain :** Web Development 💻 | Machine Learning 🤖
