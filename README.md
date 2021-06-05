@@ -13,7 +13,7 @@
 ### ✔  **Hobbies :** Swimming 🏊‍, Badminton 🏸 
 ### ✔  **Life Skills :** Leadership, Punctuality, MakeShift Guy, Optimistic 
 
-## Contributing to Open-Source 🔥
+## Learning to Contribute in Open-Source 🔥
 <p align="center">
   <img alt="Aadi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Aadi71&show_icons=true&theme=radical">
 </p>
