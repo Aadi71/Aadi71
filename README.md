@@ -17,3 +17,6 @@
 <p align="center">
   <img alt="Aadi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Aadi71&show_icons=true&theme=radical">
 </p>
+
+
+![Aadi Jain's Blog Cards](https://github-cards-external-blogs.souravdey777.vercel.app/getMediumBlogs?username=aadijain71&type=horizontal)
