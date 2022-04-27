@@ -16,9 +16,9 @@
 ### ✔  **Life Skills :** Leadership, Speaker, Writer, MakeShift Guy. 
 
 ## Learning to Contribute in Open-Source 🔥
-<p align="center">
+<!-- <p align="center">
   <img alt="Aadi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Aadi71&show_icons=true&theme=radical">
-</p>
+</p> -->
 
 ## 📊 My Github Stats
 
