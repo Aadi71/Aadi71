@@ -1,6 +1,6 @@
 <h1 align="center">Hello! 👋, I'm Aadi Jain</h1>
 
-<h3 align="center">An UnderGrad studying Computer Science in Times of India, Bennett University</h3>
+<h3 align="center">An Undergrad studying Computer Science in Times of India, Bennett University</h3>
 
 [![Twitter Badge](https://img.shields.io/badge/-Aadi_Jain-red?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/Aadi_Jain_7)](https://twitter.com/Aadi_Jain_7)  [![Linkedin Badge](https://img.shields.io/badge/-Aadi_Jain-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aadijain7102//)](https://www.linkedin.com/in/aadijain7102/) [![Gmail Badge](https://img.shields.io/badge/-jainaadi7102@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jainaadi7102@gmail.com)](mailto:jainaadi7102@gmail.com) [![Youtube Badge](https://img.shields.io/badge/-Aadi_Jain-blue?style=flat-square&logo=Youtube&logoColor=white&link=https://www.youtube.com/channel/UCO4BjmZq5NEB9zPwHlhoAyw//)](https://www.youtube.com/channel/UCO4BjmZq5NEB9zPwHlhoAyw/)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -9,9 +9,9 @@
 
 ### About 📌
 
-### ✔  **Domain :** Web Development 💻 | Machine Learning 🤖
-### ✔  **Skills :** Python, C++, Java, Mysql, Javascript, Django
-### ✔  **Learning :** MongoDB, PHP, React, Kotlin and Node.js
+### ✔  **Domain: ** Artificial Intelligence & Machine Learning, Web Development 🤖
+### ✔  **Programming Languages: ** C++, Python, JavaScript, MySQL, PostgreSQL, PHP
+### ✔  **Co-curricular: ** Public Speaking, Leadership, Team Management, Planning and Executing
 ### ✔  **Hobbies :** Swimming 🏊‍, Badminton 🏸 
 ### ✔  **Life Skills :** Leadership, Speaker, Writer, MakeShift Guy. 
 
