@@ -7,8 +7,6 @@
 
   <img align="right" alt="GIF" src="https://github.com/Aadi71/Aadi71/blob/main/code.gif?raw=true" width="400" height="300" />
 
-### About 📌
-
 ### ✔  **Domain:** Artificial Intelligence & Machine Learning, Web Development 🤖
 ### ✔  **Programming Languages:** C++, Python, JavaScript, MySQL, PostgreSQL, PHP
 ### ✔  **Hobbies:** Swimming 🏊‍, Badminton 🏸 
