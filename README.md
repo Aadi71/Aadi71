@@ -9,11 +9,10 @@
 
 ### About 📌
 
-### ✔  **Domain: ** Artificial Intelligence & Machine Learning, Web Development 🤖
-### ✔  **Programming Languages: ** C++, Python, JavaScript, MySQL, PostgreSQL, PHP
-### ✔  **Co-curricular: ** Public Speaking, Leadership, Team Management, Planning and Executing
-### ✔  **Hobbies :** Swimming 🏊‍, Badminton 🏸 
-### ✔  **Life Skills :** Leadership, Speaker, Writer, MakeShift Guy. 
+### ✔  **Domain:** Artificial Intelligence & Machine Learning, Web Development 🤖
+### ✔  **Programming Languages:** C++, Python, JavaScript, MySQL, PostgreSQL, PHP
+### ✔  **Hobbies:** Swimming 🏊‍, Badminton 🏸 
+### ✔  **Life Skills:** Leadership, Speaker, Writer, MakeShift Guy. 
 
 ## Learning to Contribute in Open-Source 🔥
 <!-- <p align="center">
