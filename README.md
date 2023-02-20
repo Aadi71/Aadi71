@@ -7,10 +7,9 @@
 
   <img align="right" alt="GIF" src="https://github.com/Aadi71/Aadi71/blob/main/code.gif?raw=true" width="400" height="300" />
 
-### ✔  **Domain:** Artificial Intelligence & Machine Learning, Web Development 🤖
-### ✔  **Programming Languages:** C++, Python, JavaScript, MySQL, PostgreSQL, PHP
+### ✔  **Domain:** Software Development, AI & ML 🤖
+### ✔  **Programming Languages:** C++, Python, Java, JavaScript, MySQL, HTML, CSS.
 ### ✔  **Hobbies:** Swimming 🏊‍, Badminton 🏸 
-### ✔  **Life Skills:** Leadership, Speaker, Writer, MakeShift Guy. 
 
 ## Learning to Contribute in Open-Source 🔥
 <!-- <p align="center">
