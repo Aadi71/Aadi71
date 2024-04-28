@@ -1,6 +1,6 @@
 <h1 align="center">Hello! 👋, I'm Aadi Jain</h1>
 
-<h3 align="center">A budding Software Engineer</h3>
+<h3 align="center">A budding Software Engineer, Economic Times Campus Star</h3>
 
 [![Twitter Badge](https://img.shields.io/badge/-Aadi_Jain-red?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/Aadi_Jain_7)](https://twitter.com/Aadi_Jain_7)  [![Linkedin Badge](https://img.shields.io/badge/-Aadi_Jain-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aadijain7102//)](https://www.linkedin.com/in/aadijain7102/) [![Gmail Badge](https://img.shields.io/badge/-jainaadi7102@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jainaadi7102@gmail.com)](mailto:jainaadi7102@gmail.com) [![Youtube Badge](https://img.shields.io/badge/-Aadi_Jain-blue?style=flat-square&logo=Youtube&logoColor=white&link=https://www.youtube.com/channel/UCO4BjmZq5NEB9zPwHlhoAyw//)](https://www.youtube.com/channel/UCO4BjmZq5NEB9zPwHlhoAyw/)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -9,6 +9,8 @@
 
 ### ✔  **Domain:** Software Development, AI & ML 🤖
 ### ✔  **Programming Languages:** Ruby on Rails, Reactjs, C++, Python, Java, JavaScript, MySQL, HTML, CSS.
+### ✔  **DevOps:** Jenkins, GitHub, Docker, CI/CD, NewRelic
+### ✔  **Tools:** Microsoft Azure, Google Cloud, AWS, Microsoft Excel, Docker, Git, Visual Studio, Tableau
 ### ✔  **Hobbies:** Swimming 🏊‍, Badminton 🏸 
 
 ## 📊 My Github Stats
