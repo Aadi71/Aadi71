@@ -1,6 +1,6 @@
 <h1 align="center">Hello! 👋, I'm Aadi Jain</h1>
 
-<h3 align="center">An undergrad studying Computer Science in Times of India, Bennett University</h3>
+<h3 align="center">A budding Software Engineer</h3>
 
 [![Twitter Badge](https://img.shields.io/badge/-Aadi_Jain-red?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/Aadi_Jain_7)](https://twitter.com/Aadi_Jain_7)  [![Linkedin Badge](https://img.shields.io/badge/-Aadi_Jain-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aadijain7102//)](https://www.linkedin.com/in/aadijain7102/) [![Gmail Badge](https://img.shields.io/badge/-jainaadi7102@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jainaadi7102@gmail.com)](mailto:jainaadi7102@gmail.com) [![Youtube Badge](https://img.shields.io/badge/-Aadi_Jain-blue?style=flat-square&logo=Youtube&logoColor=white&link=https://www.youtube.com/channel/UCO4BjmZq5NEB9zPwHlhoAyw//)](https://www.youtube.com/channel/UCO4BjmZq5NEB9zPwHlhoAyw/)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -8,10 +8,8 @@
   <img align="right" alt="GIF" src="https://github.com/Aadi71/Aadi71/blob/main/code.gif?raw=true" width="400" height="300" />
 
 ### ✔  **Domain:** Software Development, AI & ML 🤖
-### ✔  **Programming Languages:** C++, Python, Java, JavaScript, MySQL, HTML, CSS.
+### ✔  **Programming Languages:** Ruby on Rails, Reactjs, C++, Python, Java, JavaScript, MySQL, HTML, CSS.
 ### ✔  **Hobbies:** Swimming 🏊‍, Badminton 🏸 
-
-# Learning to Contribute in Open-Source 🔥
 
 ## 📊 My Github Stats
 
